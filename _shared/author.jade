@@ -1,0 +1,8 @@
+aside.center.author
+a(href='/authors/' + author)
+  h2.sm= public.authors._data[author].name
+  br
+  if public.authors._data[author].about
+    figure
+      img(src='/images/#{ public.authors._data[author].photo }', alt=public.authors._data[author].name)
+    p= public.authors._data[author].about
