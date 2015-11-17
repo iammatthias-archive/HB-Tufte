@@ -1,5 +1,9 @@
 {
-  "hello-world": {
-    "title": "Hello World"
+  "tufte-blog": {
+    "title": "Tufte Blog"
+  },
+
+  "style": {
+    "title": "Style"
   }
 }
