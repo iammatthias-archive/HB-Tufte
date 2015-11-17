@@ -1,8 +1,13 @@
-# HB---Tufte
-HarpJS blog boilerplate based on TufteCSS
+This is Tufte-CSS and HarpJS.
 
-Lately I have been on the hunt for a blog boilerplate that has a strong focus on typography and design, while remaining functional. Unfortunately, most "design" focused boilerplates tend to be flashy, or incorporate too many fonts for my liking.
+Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. HarpJS is a static web server / site generator with built in preprocessing.
 
-I found Tufte CSS a few days ago, and quickly fell in love with it's simple elegance. 
+I started with the standard HarpJS blogHB-Blog boilerplate. I stripped out the unessential files, and dropped in Tufte-CSS for a spiffy new layout.
 
-This is configured this to work pretty nicely as a blog for HarpJS.
+```
+$ sudo npm install -g harp
+$ git clone https://github.com/iammatthias/HB-Tufte.git
+$ harp server
+```
+
+It should all work, but this is definitly a work in progress. 
