@@ -1,6 +1,7 @@
 article.post
   h1.lg.title= title
   h2.sm.date= date
+  br
   != yield
   != partial("../_shared/blog-tags")
     != partial("../_shared/author")

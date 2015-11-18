@@ -1,14 +1,38 @@
-This is Tufte-CSS and HarpJS.
+# Baseline
 
-Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. HarpJS is a static web server / site generator with built in preprocessing.
+![Baseline logo](http://rosshj.com/files/harp/baseline/baseline-logo.png)
 
-I started with the standard HarpJS blogHB-Blog boilerplate. I stripped out the unessential files, and dropped in Tufte-CSS for a spiffy new layout.
-```
-$ sudo npm install -g harp
-$ git clone https://github.com/iammatthias/HB-Tufte.git
-$ harp server
-```
-It should all work, but this is definitly a work in progress.
+[Baseline](http://baseline.harpapp.io/) is a blog boilerplate for the [Harp platform](http://harp.io/).
 
+- HTML5
+- CSS3
+- Responsive
+- Lightweight
+- Uncluttered
+- Content First
+- RSS Feed
+- Disqus Comments
+- Author Pages
+- Open Graph
+- Twitter Cards
+- Google Authorship
 
-In progress: building boilerplate on the Baseline boilerplate. 
+![Baseline blog post page on desktop and mobile](http://rosshj.com/files/harp/baseline/baseline-post.jpg)
+
+By: [Ross Howard-Jones](http://rosshj.com/)
+
+---
+
+## Usage
+
+1. Install harp `sudo npm install harp -g` 
+2. Spin up Harp web server in root of project `harp server --port 9000`
+3. View at [localhost:9000](http://localhost:9000)
+
+For easy deployment (via Dropbox) see [The Harp Platform](http://harp.io).
+
+## Roadmap
+
+- Gallery layout
+- Global navigation
+- Paging or Infinite Scroll
