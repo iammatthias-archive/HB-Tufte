@@ -2,6 +2,8 @@
 
 What it is: A boilerplate created for [HarpJS](http://harpjs.com), using the Baseline template and [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
 
+### [Live Demo](http://hb-tufte.surge.sh)
+
 ## Installation
 
 $ sudo npm install -g harp
