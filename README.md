@@ -14,13 +14,6 @@ $ harp server
 
 This boilerplate uses the folder layout of Baseline, so if you have managed a blog using HarpJS, it should be familiar to you. Check the documentation for [Tufte-CSS](https://edwardtufte.github.io/tufte-css/) for more information on how to structure your articles.
 
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request
 
 ## Credits
 
