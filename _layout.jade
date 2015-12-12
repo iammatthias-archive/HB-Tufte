@@ -80,6 +80,9 @@ html(lang="en")
                       p= post.description  
                     != partial("/_shared/blog-tags.jade", { tags: post.tags })
           != yield
+            != partial("_shared/footer")
+          
+          
         else
           if current.path[0] === "blog"
             != partial("/blog/_blog")
