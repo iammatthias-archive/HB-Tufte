@@ -1,12 +1,31 @@
-Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. HarpJS is a static web server / site generator with built in preprocessing.
+# HB-Tufte // HarpJS
 
-I started with the standard HarpJS blogHB-Blog boilerplate. I stripped out the unessential files, and dropped in Tufte-CSS for a spiffy new layout.
-```
+What it is: A boilerplate created for [HarpJS](http://harpjs.com), using the Baseline template and [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
+
+## Installation
+
 $ sudo npm install -g harp
 $ git clone https://github.com/iammatthias/HB-Tufte.git
 $ harp server
-```
-It should all work, but this is definitly a work in progress.
-[Baseline]
 
-In progress: porting to Baseline boilerplate
+## Usage
+
+This boilerplate uses the folder layout of Baseline, so if you have managed a blog using HarpJS, it should be familiar to you. Check the documentation for [Tufte-CSS](https://edwardtufte.github.io/tufte-css/) for more information on how to structure your articles.
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## Credits
+
+* [HarpJS](http://harpjs.com)
+* [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
+* [Baseline](https://github.com/rosshj/baseline)
+
+## License
+
+TODO: Write license
