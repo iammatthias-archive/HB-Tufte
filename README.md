@@ -5,7 +5,9 @@ What it is: A boilerplate created for [HarpJS](http://harpjs.com), using the Bas
 ## Installation
 
 $ sudo npm install -g harp
+
 $ git clone https://github.com/iammatthias/HB-Tufte.git
+
 $ harp server
 
 ## Usage
@@ -18,7 +20,7 @@ This boilerplate uses the folder layout of Baseline, so if you have managed a bl
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request
 
 ## Credits
 
@@ -27,7 +29,3 @@ This boilerplate uses the folder layout of Baseline, so if you have managed a bl
 * [Baseline](https://github.com/rosshj/baseline)
 
 Demo hosted using [Surge](https://surge.sh)
-
-## License
-
-TODO: Write license
