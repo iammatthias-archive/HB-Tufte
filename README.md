@@ -26,6 +26,8 @@ This boilerplate uses the folder layout of Baseline, so if you have managed a bl
 * [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
 * [Baseline](https://github.com/rosshj/baseline)
 
+Demo hosted using [Surge](https://surge.sh)
+
 ## License
 
 TODO: Write license
