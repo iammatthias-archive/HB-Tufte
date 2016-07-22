@@ -1,8 +1,8 @@
-# HB-Tufte // HarpJS
+# HB-Tufte v2 // HarpJS
 
-What it is: A boilerplate created for [HarpJS](http://harpjs.com), using the Baseline template and [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
+What it is: A boilerplate created for [HarpJS](http://harpjs.com), using [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
 
-### [Live Demo](http://hb-tufte.surge.sh)
+### [Live Demo](http://hb-tufte-v2.surge.sh)
 
 ## Installation
 
@@ -14,13 +14,12 @@ $ harp server
 
 ## Usage
 
-This boilerplate uses the folder layout of Baseline, so if you have managed a blog using HarpJS, it should be familiar to you. Check the documentation for [Tufte-CSS](https://edwardtufte.github.io/tufte-css/) for more information on how to structure your articles.
+Check the documentation for [Tufte-CSS](https://edwardtufte.github.io/tufte-css/) for more information on how to structure your articles.
 
 
 ## Credits
 
 * [HarpJS](http://harpjs.com)
 * [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
-* [Baseline](https://github.com/rosshj/baseline)
 
 Demo hosted using [Surge](https://surge.sh)

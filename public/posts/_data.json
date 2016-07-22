@@ -1,0 +1,38 @@
+{
+
+  "1": {
+    "title": "Article 1",
+    "date": "02/02/2016",
+    "author": "author1"
+  },
+  "2": {
+    "title": "Article 2",
+    "date": "02/02/2016",
+    "author": "author2"
+  },
+  "3": {
+    "title": "Article 3",
+    "date": "03/03/2016",
+    "author": "author3"
+  },
+  "4": {
+    "title": "Article 4",
+    "date": "04/04/2016",
+    "author": "author1"
+  },
+  "5": {
+    "title": "Article 5",
+    "date": "05/05/2016",
+    "author": "author2"
+  },
+  "6": {
+    "title": "Article 6",
+    "date": "06/06/2016",
+    "author": "author3"
+  },
+  "7": {
+    "title": "Article 7",
+    "date": "07/07/2016",
+    "author": "author1"
+  }
+}

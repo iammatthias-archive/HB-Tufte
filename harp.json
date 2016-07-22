@@ -1,0 +1,24 @@
+{
+    "globals": {
+        "title": "Title",
+        "description": "Description",
+        "name": "Name",
+        "email": "you@yourdomainhere.com",
+        "uri": "yourdomainhere.com",
+
+        "meta": {
+            "title": "Title",
+            "description": "Description"
+        },
+
+        "config": {
+            "assets": {
+                "folder_css"    : "/assets/",
+                "folder_js"     : "/assets/js",
+                "folder_bower"  : "/assets/vendor",
+                "folder_img"  : "/assets/img",
+                "folder_shared"  : "/_shared"
+            }
+        }
+    }
+}

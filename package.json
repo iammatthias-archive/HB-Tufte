@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "description": "description",
+  "author": {
+    "name": "name",
+    "url": "yourdomainhere.com"
+  },
+  "license" : "MIT",
+  "copyright" : "Copyright ©",
+  "repository": {
+    "type": "git",
+    "url": "git-url"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "harp": "^0.20.3",
+    "surge": "^0.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified.\""
+  }
+}

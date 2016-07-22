@@ -1,0 +1,20 @@
+{
+  "author1": {
+      "name": "Your Name",
+      "about": "Bio / Intro / About",
+      "twitter": "@author1",
+      "github": "github"
+  },
+  "author2": {
+      "name": "Your Name",
+      "about": "About / Bio / Intro",
+      "twitter": "@author2",
+      "github": "github"
+  },
+  "author3": {
+      "name": "Your Name",
+      "about": "Intro / About / Bio",
+      "twitter": "@author3",
+      "github": "github"
+  }
+}

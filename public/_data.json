@@ -1,0 +1,14 @@
+{
+    "index" : {
+        "title": "title",
+
+        "meta": {
+            "title": "title",
+            "description": "description"
+        }
+    },
+
+    "sitemap": {
+    "layout": false
+    }
+}

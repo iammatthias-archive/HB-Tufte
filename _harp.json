@@ -1,9 +1,0 @@
-{
-  "globals": {
-    "site_title": "Baseline Tufte",
-    "description": "This is a Tufte-ed version of Baseline, for HarpJS and the Harp platform.",
-    "site_url": "http://iammatthias.com/hb-tufte",
-    "logo": "/images/logo.png",
-    "analytics_account": "#"
-  }
-}

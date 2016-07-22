@@ -1,0 +1,20 @@
+    <%- partial("_shared/_blurb") %>
+
+    <%- partial("_shared/_header") %>
+
+<% for(var slug in public.posts._data){ %>
+  <article>
+  <section>
+
+
+  <h2><a href="/posts/<%= slug %>"><%= public.posts._data[slug].title %></a></h2>
+  <p><a href="/posts/<%= slug %>"><%= public.posts._data[slug].date %></a>
+</p>
+<p>
+  <a href="/author/author<%= slug %>"><%= public.posts._data[slug].author %></a>
+</p>
+
+  </section>
+  </article>
+<%- partial("_shared/_footer") %>
+<% }; %>
