@@ -22,4 +22,4 @@ Check the documentation for [Tufte-CSS](https://edwardtufte.github.io/tufte-css/
 * [HarpJS](http://harpjs.com)
 * [Tufte-CSS](https://edwardtufte.github.io/tufte-css/)
 
-Demo hosted using [Surge](https://surge.sh)
+Demo hosted using [Surge](https://surge.sh) and Travis CI.
